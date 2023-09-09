@@ -1,0 +1,38 @@
+.container{
+    border:3px solid black;
+    height:500px;
+    width:500px;
+    position:fixed;
+    left:100px;
+    top:50px;
+    padding: 20px;
+}
+.box{
+    border:3px solid black;
+    width:500px;
+}   
+.first{
+    border:3px solid black;
+    width:500px;
+    position: fixed;
+    top:180px;
+    padding-left: 5px; ;
+}
+.second{
+    border:3px solid black;
+    width:500px;
+    height:120px;
+    position: fixed;
+    top:350px;
+    padding:5px;
+}
+.innersecond{
+    border:3px solid black;
+    width:495px;
+    height:60px;
+    position: fixed;
+    top:380px;
+   
+}
+
+   
