@@ -4,8 +4,9 @@
     width:500px;
     position:fixed;
     left:100px;
-    top:50px;
+    top:30px;
     padding: 20px;
+    position: relative;
 }
 .box{
     border:3px solid black;
@@ -29,10 +30,16 @@
 .innersecond{
     border:3px solid black;
     width:495px;
-    height:60px;
+    height:100px;
     position: fixed;
-    top:380px;
+    top:365px;
    
+}
+.line{
+    border:3px solid red;
+    position: fixed;
+    width:490px;
+    top:410px;
 }
 
    
